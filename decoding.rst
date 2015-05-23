@@ -31,7 +31,7 @@ Note that TC is inside of the DATA frame. DF and TC can be easily calculated:
 ::
 
   DF: 10001 -> 17
-  TC: 00010 -> 4
+  TC: 00100 -> 4
 
 
 Those two values confirm that the message is good for decoding aircraft identification.
